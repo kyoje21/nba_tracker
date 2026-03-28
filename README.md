@@ -27,12 +27,9 @@ nba_tracker/
 ├── assets/
 │   ├── saltshaker.png      # Salt shaker image for the meter
 │   └── logos/              # PNG logos for all 30 NBA teams
-├── data/
-│   ├── miami_heat_thread.csv   # Test data (columns: Author, Score, CommentText)
-│   └── wizards_thread.csv      # Test data (columns: Author, Score, CommentText)
-├── OG_app.py               # Original/backup version of app
-├── test_gemini.py           # Test script
-└── test_sentiment.py        # Sentiment test script
+└── data/
+    ├── miami_heat_thread.csv   # Test data (columns: Author, Score, CommentText)
+    └── wizards_thread.csv      # Test data (columns: Author, Score, CommentText)
 ```
 
 ### Setup & Run Locally
